@@ -1,3 +1,3 @@
 # PhoXi-API
   ## PhoXi Control Installation
-    Download the software from [here](https://zenodo.org/deposit/7748986)
+    Download the software from https://www.photoneo.com/de/downloads/phoxi-control
