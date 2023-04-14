@@ -19,5 +19,5 @@
 
 
 
-## Imprting 3D Scans
+## Importing 3D Scans
  
