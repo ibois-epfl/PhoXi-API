@@ -14,4 +14,4 @@
   
 
 
-## How to set-up the camera
+## Seting-up the camera
