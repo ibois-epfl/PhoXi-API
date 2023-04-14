@@ -12,3 +12,6 @@
   sudu PhotoneoPhoXiControlInstaller-1.9.5-Ubuntu20-STABLE.run
   3.
   
+
+
+## How to set-up the camera
