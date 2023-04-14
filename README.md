@@ -15,5 +15,5 @@
   
 
 
-## Seting-up the camera
+## Setting-up the camera
  
